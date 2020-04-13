@@ -8,6 +8,7 @@ public class githubDevelop {
 	{
 	System.out.println("Final");
 	System.out.println("gitdemo");
+	System.out.println("test conflict");
 	
 	}	
 }
