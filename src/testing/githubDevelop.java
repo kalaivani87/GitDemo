@@ -7,4 +7,9 @@ public class githubDevelop {
 	System.out.println("Develop1");
 	System.out.println("Develop2");
 	}	
+	
+	public void GitHubMergeMaster()
+	{
+	System.out.println("Final");
+	}	
 }
