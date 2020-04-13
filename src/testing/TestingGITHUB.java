@@ -2,9 +2,9 @@ package testing;
 
 public class TestingGITHUB {
 
-	public void GitDemo()
+	public void GitDemo2()
 	{
-	System.out.println("Testing1");
+	System.out.println("Testing2");
 	}
 	
 	
